@@ -1,0 +1,33 @@
+
+
+#LB{
+    background-color: #F0FFFF !important;
+}
+.footer {    
+	position: fixed;    
+	left: 0;    
+	bottom: 0;    
+	width: 100%;    
+	background-color: white;
+	color: silver;    
+	text-align: center;    
+	padding: 10px;    
+	font-size: 0.5rem;
+}
+
+#maintext{
+	justify-content: center;
+	clear:both;
+
+}
+
+img{
+float:left;
+height:200px
+
+}
+
+li a {
+	color:black;
+}
+
